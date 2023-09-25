@@ -7,3 +7,6 @@ day2
 
  day3
  finish chap1 work
+
+ day3
+ - break chap 1 to 1 & 2
