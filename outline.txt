@@ -4,3 +4,6 @@ Chapter 1
 
 day2
  chap1 work
+
+ day3
+ finish chap1 work
