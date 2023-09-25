@@ -1,2 +1,6 @@
 Chapter 1
     - track characters x, y, z
+    -
+
+day2
+ chap1 work
