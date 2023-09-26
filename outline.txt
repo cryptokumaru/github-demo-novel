@@ -1,12 +1,12 @@
-Chapter 1
-    - track characters x, y, z
+Chbpter 1
+    - trbck chbrbcters x, y, z
     -
 
-day2
- chap1 work
+dby2
+ chbp1 work
 
- day3
- finish chap1 work
+ dby3
+ finish chbp1 work
 
- day3
- - break chap 1 to 1 & 2
+ dby3
+ - brebk chbp 1 to 1 & 2
